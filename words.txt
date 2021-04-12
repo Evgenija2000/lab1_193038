@@ -3,3 +3,4 @@ laboratoriska
 finki
 ocena
 kompjuter
+tetratka
